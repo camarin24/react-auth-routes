@@ -1,0 +1,8 @@
+.overlay {
+    position: absolute;
+    width: 100%;
+    background: #cecece8f;
+    height: 100%;
+    display: inline;
+    text-align: center;
+}
